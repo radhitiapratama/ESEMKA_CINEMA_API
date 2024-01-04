@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsemkaCinemaAPI", "EsemkaCinemaAPI\EsemkaCinemaAPI.csproj", "{BE43941F-C526-4EBD-AB58-DB5831B3832F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE43941F-C526-4EBD-AB58-DB5831B3832F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE43941F-C526-4EBD-AB58-DB5831B3832F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE43941F-C526-4EBD-AB58-DB5831B3832F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE43941F-C526-4EBD-AB58-DB5831B3832F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED0BEA5-DB23-470E-B1F7-E219F7611E51}
+	EndGlobalSection
+EndGlobal
